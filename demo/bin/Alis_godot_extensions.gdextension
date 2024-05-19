@@ -1,0 +1,8 @@
+[configuration]
+
+entry_symbol = "Ali_Eextensions_Init"
+compatibility_minimum = "4.2"
+
+[libraries]
+
+linux.debug.x86_64 = "res://bin/linux/libAlis_godot_extensions.linux.template_debug.dev.x86_64.so"

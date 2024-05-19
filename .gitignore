@@ -49,3 +49,4 @@ compile_commands.json
 .vscode/*
 !.vscode/extensions.json
 .DS_Store
+.godot_V4.2.1-stable_linux.x86_64
